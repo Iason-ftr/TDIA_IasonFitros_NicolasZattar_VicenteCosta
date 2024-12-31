@@ -1,0 +1,12 @@
+Título: Compras
+Descrição: Carne e ovos
+Categoria: Pessoal
+Status: Pendente
+Data de Criação: 2024-12-31
+
+Título: Cozinhar
+Descrição: jantar
+Categoria: Pessoal
+Status: Pendente
+Data de Criação: 2024-12-31
+
